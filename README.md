@@ -21,10 +21,7 @@
 
 ## 🎮 Game Preview
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kavin553/space-shooter-game/main/shoot_image.png" width="700"/>
-</p>
-
+![Gameplay Screen](shoot_image.png)
 ---
 
 ## 🎮 Gameplay Instructions
