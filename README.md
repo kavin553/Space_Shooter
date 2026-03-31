@@ -15,14 +15,14 @@
 
 ## 🌌 Live Demo
 
-🔗 **Play Now:** https://your-vercel-link.vercel.app
+🔗 **Play Now:** https://space-shooter-pi.vercel.app/
 
 ---
 
 ## 🎮 Game Preview
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1614728263952-84ea256f9679?q=80&w=1200&auto=format&fit=crop" width="700"/>
+  ![Gameplay Screen](shoot_image.png)
 </p>
 
 ---
@@ -42,7 +42,7 @@
 ## 📸 Gameplay Preview
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1614728263952-84ea256f9679?q=80&w=1200&auto=format&fit=crop" width="600"/>
+  ![Gameplay Screen](shoot_image.png)
 </p>
 
 ---
@@ -136,7 +136,7 @@ If you like this project:
 
 ## 👨‍💻 Author
 
-💖 Made with passion by **YOUR NAME**
+💖 Made with passion by KAVIN
 
 ---
 
