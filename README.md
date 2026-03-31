@@ -22,7 +22,7 @@
 ## 🎮 Game Preview
 
 <p align="center">
-  ![Gameplay Screen](shoot_image.png)
+  <img src="https://raw.githubusercontent.com/kavin553/space-shooter-game/main/shoot_image.png" width="700"/>
 </p>
 
 ---
@@ -40,10 +40,6 @@
 ---
 
 ## 📸 Gameplay Preview
-
-<p align="center">
-  ![Gameplay Screen](shoot_image.png)
-</p>
 
 ---
 
